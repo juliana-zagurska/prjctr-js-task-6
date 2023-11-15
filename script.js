@@ -17,3 +17,4 @@ const result = multiply(3)(4);
 console.log(result); 
 
 // Task 3 : sort movies array  
+
